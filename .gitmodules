@@ -1,0 +1,6 @@
+[submodule "app/backend"]
+	path = app/backend
+	url = git@github.com:usarral/hackaton-backend
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@github.com:usarral/hackaton-frontend
